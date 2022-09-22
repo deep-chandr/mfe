@@ -6,7 +6,7 @@ import Landing from "./components/Landing";
 import Pricing from "./components/Pricing";
 
 export default () => {
-  // sdf;sdf
+  // sdf;sdfsdf
   return (
     <div>
       <StylesProvider>
