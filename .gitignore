@@ -2,4 +2,7 @@ node_modules
 dist
 .DS_Store
 
-**/package-lock.json
+package/auth/package-lock.json
+package/container/package-lock.json
+package/marketing/package-lock.json
+package/dashboard/package-lock.json
